@@ -1,14 +1,14 @@
 {
-   "first":[
+   "student":[
       {
          "name":"jester Z. orleans",
          "Age":23,
-         "favorite":"the lord is my sheperd i shall not want"
+         "FavoriteQuote":"the lord is my sheperd i shall not want"
       },
       {
-         "name":"jester Z. orleans",
-         "Age":23,
-         "favorite":"the lord is my sheperd i shall not want"
+         "ClassSection":"BSIT 3B",
+         "ClassCode":"T230",
+         "BuksuEmail":"1801103067@student.buksu.edu.ph",
       }
    ]
    
